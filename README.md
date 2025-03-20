@@ -1,4 +1,4 @@
-weather_bot App
+WeatherBot App
 A web-based chatbot application that answers questions about the weather using Python, Flask, HTML, CSS, JavaScript, ChatterBot, and OpenWeather and Geocoding API.
 
 Features
@@ -64,7 +64,7 @@ zipp==3.15.0
 
 Installation
 1. Clone the Repository:
-git clone https://github.com/yssongyao/weather_bot.git
+git clone https://github.com/yssongyao/WeatherBot.git
 cd weather_bot
 
 2. Install Dependencies:
