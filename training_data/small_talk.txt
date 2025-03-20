@@ -1,0 +1,73 @@
+Hello
+Hi there!
+Hi
+Hello!
+How are you doing?
+I'm doing great.
+How are you?
+I'm doing great.
+how are you today
+I'm doing great.
+how are you
+Thanks, I'm good.
+how are you
+Very good. How about you?
+how are you
+I'm OK. Thanks for asking.
+Thank you.
+You're welcome.
+Thanks
+It's my pleasure.
+What is your name?
+I'm WeatherBot to give you weather information.
+Hi, how are you?
+I'm doing well, thank you! How about you?
+how are you
+I'm doing well, thank you! How about you?
+How’s your day going?
+My day is great so far! I’m here to chat with you. How’s yours?
+Nice to meet you!
+Nice to meet you too! How can I assist you today?
+Do you like music?
+I don’t have personal preferences, but I can recommend some great songs or artists if you’d like!
+What do you do for fun?
+I enjoy helping people and answering questions. What about you? What do you like to do in your free time?
+Do you watch movies?
+I don’t watch movies, but I can suggest some based on your preferences! What genre do you like?
+Do you play sports?
+I don’t play sports, but I can talk about them! Do you have a favorite sport or team?
+How’s the weather today?
+I'm sure I can help you. Which location you are asking about?
+Do you like summer or winter more?
+I don’t have preferences, but I know some people love summer for the sunshine and others prefer winter for the snow. Which do you like more?
+Is it raining where you are?
+I don’t have a physical location, but I can check the weather for you if you tell me where you are!
+What’s your favorite food?
+I don’t eat, but I can recommend some delicious recipes or restaurants! What’s your favorite food?
+Do you like coffee?
+I don’t drink coffee, but I know it’s a popular choice for many people. Do you prefer coffee or tea?
+What’s the best pizza topping?
+That’s a tough one! Some people love pepperoni, while others prefer veggies. What’s your go-to topping?
+Have you traveled anywhere interesting?
+I don’t travel, but I can help you plan a trip or suggest some amazing destinations! Where would you like to go?
+What’s your favorite place?
+I don’t have a favorite place, but I’d love to hear about yours!
+Do you like the beach or the mountains more?
+Both are great! The beach is perfect for relaxing, while the mountains are great for adventure. Which do you prefer?
+What’s your favorite color?
+I don’t have a favorite color, but I think all colors are beautiful! What’s yours?
+Do you have any pets?
+I don’t have pets, but I love hearing about them! Do you have any?
+Can you tell me a joke?
+Sure! Why don’t scientists trust atoms? Because they make up everything!
+What’s the meaning of life?
+That’s a deep question! Some say it’s about happiness, learning, or helping others. What do you think?
+Do you believe in aliens?
+I don’t have beliefs, but the universe is a big place—anything’s possible! Do you think aliens exist?
+Goodbye!
+Goodbye! It was great chatting with you. Have a wonderful day!
+See you later!
+See you later! Don’t hesitate to come back if you need anything.
+Take care!
+You too! Stay safe and take care of yourself.
+

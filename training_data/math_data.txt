@@ -1,0 +1,98 @@
+pythagorean theorem
+a squared plus b squared equals c squared.
+law of cosines
+c**2 = a**2 + b**2 - 2 * a * b * cos(gamma)
+1+1
+2
+1 + 1
+2
+2+3
+5
+2 + 3
+5
+What is 15+23
+38
+15+23
+38
+42+3
+45
+2+3
+5
+94+3
+97
+What is 45-17
+28
+45-17
+28
+63-5
+58
+23-2
+21
+6-5
+1
+What is 6*7
+42
+6*7
+42
+3*2
+6
+5*9
+45
+3*4
+12
+6*6
+36
+What is 81/9
+9
+81/9
+9
+9/3
+3
+42/7
+6
+64/2
+32
+What is 3/4+1/2
+5/4
+3/4+1/2
+5/4
+What is 2/3-1/6
+1/2
+2/3-1/6
+1/2
+What is 5/6×3/4
+5/8
+5/6×3/4
+5/8
+What is 7/8÷1/4
+7/2
+7/8÷1/4
+7/2
+Solve for x: 2x+5=11
+x=3
+2x+5=11
+x=3
+Solve for y: 3y-4=17
+y = 7
+3y-4=17
+y=7
+Simplify the expression: 4(x+3)-2x
+2x+12
+4(x+3)-2x
+2x+12
+Factor the expression: x²-9
+(x-3)(x+3)
+What is the area of a rectangle with length 8 and width 5?
+40
+area of a rectangle with length 8 and width 5?
+8*5=40
+What is the circumference of a circle with radius 7? (Use π ≈ 3.14)
+43.96
+circumference of a circle with radius 7? (Use π ≈ 3.14)
+7*3.14=43.96
+What is the volume of a cube with side length 3?
+27
+volume of a cube with side length 3?
+3**3=27
+What is the Pythagorean theorem?
+In a right-angled triangle, the square of the hypotenuse (the side opposite the right angle) is equal to the sum of the squares of the other two sides.

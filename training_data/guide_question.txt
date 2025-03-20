@@ -1,0 +1,72 @@
+forecast
+Are you asking about weather forecast? Please ask questions like these: 1. weather forecast for 'location name'? 2. forecast for 'location name'? 3. Can you give me weather forecast for 'location name'? 4. What is the weather forecast for 'location name'?
+forecast
+Are you asking about weather forecast? Please ask questions like these: 1. weather forecast for 'location name'? 2. forecast for 'location name'? 3. Can you give me weather forecast for 'location name'? 4. What is the weather forecast for 'location name'?
+forecast
+Are you asking about weather forecast? Please ask questions like these: 1. weather forecast for 'location name'? 2. forecast for 'location name'? 3. Can you give me weather forecast for 'location name'? 4. What is the weather forecast for 'location name'?
+forecast
+Are you asking about weather forecast? Please ask questions like these: 1. weather forecast for 'location name'? 2. forecast for 'location name'? 3. Can you give me weather forecast for 'location name'? 4. What is the weather forecast for 'location name'?
+weather forecast
+Are you asking about weather forecast? Please ask questions like these: 1. weather forecast for 'location name'? 2. forecast for 'location name'? 3. Can you give me weather forecast for 'location name'? 4. What is the weather forecast for 'location name'?
+weather forecast
+Are you asking about weather forecast? Please ask questions like these: 1. weather forecast for 'location name'? 2. forecast for 'location name'? 3. Can you give me weather forecast for 'location name'? 4. What is the weather forecast for 'location name'?
+weather forecast
+Are you asking about weather forecast? Please ask questions like these: 1. weather forecast for 'location name'? 2. forecast for 'location name'? 3. Can you give me weather forecast for 'location name'? 4. What is the weather forecast for 'location name'?
+weather forecast
+Are you asking about weather forecast? Please ask questions like these: 1. weather forecast for 'location name'? 2. forecast for 'location name'? 3. Can you give me weather forecast for 'location name'? 4. What is the weather forecast for 'location name'?
+travel advice?
+Surely I can help. Please ask me this question: rainy day and time for 'location name'? Then I will let you know when to avoid travel to this location due to rains.
+travel suggestion?
+Surely I can help. Please ask me this question: rainy day and time for 'location name'? Then I will let you know when to avoid travel to this location due to rains.
+advice
+Surely I can help. Please ask me this question: rainy day and time for 'location name'? Then I will let you know when to avoid travel to this location due to rains.
+suggestion
+Surely I can help. Please ask me this question: rainy day and time for 'location name'? Then I will let you know when to avoid travel to this location due to rains.
+Can you give me some travel advices?
+Surely I can help. Please ask me this question: rainy day and time for 'location name'? Then I will let you know when to avoid travel to this location due to rains.
+Can you give me some travel suggestions?
+Surely I can help. Please ask me this question: rainy day and time for 'location name'? Then I will let you know when to avoid travel to this location due to rains.
+I'd like to get some travel advices.
+Surely I can help. Please ask me this question: rainy day and time for 'location name'? Then I will let you know when to avoid travel to this location due to rains.
+I'd like to have some travel suggestions.
+Surely I can help. Please ask me this question: rainy day and time for 'location name'? Then I will let you know when to avoid travel to this location due to rains.
+travel advice?
+Surely I can help. Please ask me this question: rainy day and time for 'location name'? Then I will let you know when to avoid travel to this location due to rains.
+travel suggestion?
+Surely I can help. Please ask me this question: rainy day and time for 'location name'? Then I will let you know when to avoid travel to this location due to rains.
+advice
+Surely I can help. Please ask me this question: rainy day and time for 'location name'? Then I will let you know when to avoid travel to this location due to rains.
+suggestion
+Surely I can help. Please ask me this question: rainy day and time for 'location name'? Then I will let you know when to avoid travel to this location due to rains.
+Can you give me some travel advices?
+Surely I can help. Please ask me this question: rainy day and time for 'location name'? Then I will let you know when to avoid travel to this location due to rains.
+Can you give me some travel suggestions?
+Surely I can help. Please ask me this question: rainy day and time for 'location name'? Then I will let you know when to avoid travel to this location due to rains.
+I'd like to get some travel advices.
+Surely I can help. Please ask me this question: rainy day and time for 'location name'? Then I will let you know when to avoid travel to this location due to rains.
+I'd like to have some travel suggestions.
+Surely I can help. Please ask me this question: rainy day and time for 'location name'? Then I will let you know when to avoid travel to this location due to rains.
+travel advice?
+Surely I can help. Please ask me this question: rainy day and time for 'location name'? Then I will let you know when to avoid travel to this location due to rains.
+travel suggestion?
+Surely I can help. Please ask me this question: rainy day and time for 'location name'? Then I will let you know when to avoid travel to this location due to rains.
+advice
+Surely I can help. Please ask me this question: rainy day and time for 'location name'? Then I will let you know when to avoid travel to this location due to rains.
+suggestion
+Surely I can help. Please ask me this question: rainy day and time for 'location name'? Then I will let you know when to avoid travel to this location due to rains.
+Can you give me some travel advices?
+Surely I can help. Please ask me this question: rainy day and time for 'location name'? Then I will let you know when to avoid travel to this location due to rains.
+Can you give me some travel suggestions?
+Surely I can help. Please ask me this question: rainy day and time for 'location name'? Then I will let you know when to avoid travel to this location due to rains.
+I'd like to get some travel advices.
+Surely I can help. Please ask me this question: rainy day and time for 'location name'? Then I will let you know when to avoid travel to this location due to rains.
+I'd like to have some travel suggestions.
+Surely I can help. Please ask me this question: rainy day and time for 'location name'? Then I will let you know when to avoid travel to this location due to rains.
+the day after tomorrow
+I can certainly answer. Please simply ask me like these: weather in 'location name' the day after?
+the day after
+I can certainly answer. Please simply ask me like these: weather in 'location name' the day after?
+the day after tomorrow
+I can certainly answer. Please simply ask me like these: weather in 'location name' the day after?
+the day after
+I can certainly answer. Please simply ask me like these: weather in 'location name' the day after?
