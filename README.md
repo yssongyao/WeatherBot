@@ -132,8 +132,7 @@ The chatbot will display the today's weather for Cambridge.
 Type: What is the weather in Oxford tomorrow? 
 The chatbot will display the tomorrow's weather for Oxford.  
 
-Type: How is the weather in Cambridge the day after tomorrow?  
-The chatbot will display the weather of the day after tomorrow for Oxford . 
+Type: How is the weather in Cambridge the day after tomorrow? The chatbot will display the weather of the day after tomorrow for Oxford . 
 
 Type: Can you give me weather forecast for Norwich? 
 The chatbot will display the 5-day weather forecast for Norwich. 
