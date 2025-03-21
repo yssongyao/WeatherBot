@@ -83,9 +83,11 @@ Paste your Google API key in api_key/google_api_key.txt.
 
 Running the App  
 1. Start the Flask Server:
+
 python main.py 
 
-2. Access the App:  
+2. Access the App:
+
 Open your browser and navigate to:
 http://127.0.0.1:5000 
 
