@@ -74,6 +74,7 @@ Installation
 
 1. Clone the Repository: 
 git clone https://github.com/yssongyao/WeatherBot.git
+
 cd WeatherBot
 
 3. Install Dependencies: 
