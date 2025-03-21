@@ -8,7 +8,7 @@ Features
 
 Chatbot Interaction: Users can interact with the chatbot to ask questions.  
 Weather Information: The chatbot can fetch 5-day weather forecast data for 10 locations in UK by calling Geocoding API and OpenWeather API and then trained with processed data set. When users ask questions about today/tomorrow/the day after tomorrow's weather or a whole set of 5-day weather forecast for any locations, the chatbot will surely reply a satisfying anwser.  
-Travel suggestion: The chatbot can also suggest when to avoid travel to a location due to rainy weather.  
+Travel suggestion: The chatbot can also suggest users when to avoid travelling to a specific location due to bad weather (rainy) conditions.
 
 
 Technologies Used 
