@@ -1,11 +1,11 @@
 WeatherBot App 
 
-A web-based chatbot application that answers questions about the weather using Python, Flask, HTML, CSS, JavaScript, ChatterBot, and OpenWeather and Geocoding API.
+A web-based chatbot application that answers questions about the weather using Python, Flask, HTML, CSS, JavaScript, ChatterBot, OpenWeather API and Geocoding API.
 
 Features 
 
 Chatbot Interaction: Users can interact with the chatbot to ask questions.  
-Weather Information: The chatbot can fetch and display weather information for 10 locations in UK using the Geocoding API and OpenWeather API, then answer questions about today or tomorrow or the day after tomorrow's weather for a location, or the 5-day weather forecast for a location.  
+Weather Information: The chatbot can fetch 5-day weather forecast data for 10 locations in UK by calling Geocoding API and OpenWeather API and then trained with processed data set. When user after questions about today/tomorrow/the day after tomorrow's weather or a whole set of 5-day weather forecast for any locations, the chatbot will surely reply a satisfying anwser.  
 Travel suggestion: The chatbot can also suggest when and where to avoid travel due to rainy weather.  
 
 Technologies Used 
@@ -98,7 +98,7 @@ Get the coordinates from Google Geocoding API
 
 data.py 
 
-Fetching, processing weather data and saving to csv files   
+Fetching weather data for OpenWeather API, then processing weather and saving data to csv files   
 
 
 train_data.py 
