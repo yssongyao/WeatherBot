@@ -74,12 +74,13 @@ Installation
 
 1. Clone the Repository: 
 git clone https://github.com/yssongyao/WeatherBot.git
+
 cd WeatherBot
 
-2. Install Dependencies: 
+3. Install Dependencies: 
 pip install -r requirements.txt
 
-3. Set Up OpenWeather API Key and Google API key: 
+4. Set Up OpenWeather API Key and Google API key: 
 
 Sign up at OpenWeather and Google to get an API keys.  
 Paste your openweather API key in api_key/open_weather_api_key.txt  
