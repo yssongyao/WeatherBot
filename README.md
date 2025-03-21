@@ -73,7 +73,8 @@ zipp==3.15.0
 Installation 
 
 1. Clone the Repository: 
-git clone https://github.com/yssongyao/WeatherBot.git cd WeatherBot
+git clone https://github.com/yssongyao/WeatherBot.git
+cd WeatherBot
 
 3. Install Dependencies: 
 pip install -r requirements.txt
