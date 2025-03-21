@@ -96,7 +96,7 @@ You will still need the above API keys if full function is required.
 
 5. Error handling when calling APIs:
 
-Once you have API keys set up, you have an option to modify the code by commenting the Try and Except code to make use of Error handlings functions when calling APIs. Sometimes there may be connection errors to OpenWeather API or Geocoding API, this App is configured to handle these errors and display the error code or information when this happens. If your network is fine, the connections errors may be due to high trafic calling to certain APIs. Then just try to restart the app and the connnection should be sucssessful.
+Once you have API keys set up, you have an option to modify the code by commenting the Try and Except code to make use of Error handlings functions when calling APIs. Sometimes there may be connection errors when calling OpenWeather API or Geocoding API, this App is configured to handle these errors and display the error code or information when this happens. If your network is fine, the connections errors may be due to high trafic calling to certain APIs. Then just try to restart the app and the connnection should be sucssessful.
 
 
 
