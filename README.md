@@ -86,7 +86,7 @@ Paste your openweather API key in api_key/open_weather_api_key.txt
 Paste your Google API key in api_key/google_api_key.txt.  
 
 
-4. Run app without OpenWeather API Key and Google API key:
+4. Run app without API keys:
   
 You can still run the app without API keys as there are Error handling (Try and Except) to execute the app anyway, although the chatbot will only response with the data updated on 20 Mar 2025 when the project uploaded to GitHub.
 This is OK for demonstration purpose.
