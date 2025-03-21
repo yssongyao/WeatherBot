@@ -92,36 +92,51 @@ http://127.0.0.1:5000
 Code Overview   
  
 coordinates.py 
-Get the coordinates from Google Geocoding API   
+
+Get the coordinates from Google Geocoding API  
+
 
 data.py 
+
 Fetching, processing weather data and saving to csv files   
 
+
 train_data.py 
+
 Processing csv files and saving to various txt files as training data   
 
+
 main.py 
+
 Creat chatbot and run app   
 
 templates/index.html 
+
 The main HTML file for the frontend   
 
 static/styles.css 
+
 CSS file for styling the app   
 
 Usage   
 
+
 Ask About the Weather:   
+
 
 Type: What is the weather in Cambridge today? 
 The chatbot will display the today's weather for Cambridge.   
+
 Type: What is the weather in Oxford tomorrow? 
-The chatbot will display the tomorrow's weather for Oxford. 
-Type: How is the weather in Cambridge the day after tomorrow? 
+The chatbot will display the tomorrow's weather for Oxford.  
+
+Type: How is the weather in Cambridge the day after tomorrow?  
 The chatbot will display the weather of the day after tomorrow for Oxford . 
+
 Type: Can you give me weather forecast for Norwich? 
 The chatbot will display the 5-day weather forecast for Norwich. 
 
-General Chat:   
+General Chat:  
+
 Type: Hello or How are you? 
 The chatbot will respond with a general conversation.
