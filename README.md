@@ -83,7 +83,7 @@ pip install -r requirements.txt
 
 4. Set Up OpenWeather API Key and Google API key: 
 
-Sign up at OpenWeather and Google to get an API keys.  
+Sign up at OpenWeather and Google to get API keys.  
 Paste your openweather API key in api_key/open_weather_api_key.txt  
 Paste your Google API key in api_key/google_api_key.txt.  
 
