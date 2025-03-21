@@ -72,7 +72,8 @@ zipp==3.15.0
 
 Installation 
 
-1. Clone the Repository: 
+1. Clone the Repository:
+ 
 git clone https://github.com/yssongyao/WeatherBot.git
 
 cd WeatherBot
