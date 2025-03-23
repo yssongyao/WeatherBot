@@ -117,32 +117,22 @@ Code Overview
 
 
  
-coordinates.py 
-
-Get the coordinates from Google Geocoding API  
+coordinates.py: Get the coordinates from Google Geocoding API  
 
 
-data.py 
-
-Fetching weather data for OpenWeather API, then processing weather and saving data to csv files   
+data.py: Fetching weather data for OpenWeather API, then processing weather data and saving to csv files   
 
 
-train_data.py 
-
-Processing csv files and saving to various txt files as training data   
+train_data.py: Processing csv files and saving to various txt files as training data   
 
 
-main.py 
+main.py: Creat chatbot and run app   
 
-Creat chatbot and run app   
 
-templates/index.html 
+templates/index.html: The main HTML file for the frontend   
 
-The main HTML file for the frontend   
 
-static/styles.css 
-
-CSS file for styling the app   
+static/styles.css : CSS file for styling the app   
 
 
 
